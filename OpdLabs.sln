@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstTask", "firstTask\firstTask.csproj", "{CF64DE00-EEB2-4C1F-86A3-A1975A22ED7E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstTaskTest", "firstTaskTest\firstTaskTest.csproj", "{1325604D-A302-4F19-818E-3B3F4FE68226}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secondTask", "secondTask\secondTask.csproj", "{D1BAB714-D37F-4B8D-BD3F-2AC73B6A3E4A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secondTaskTest", "secondTaskTest\secondTaskTest.csproj", "{531ECF93-C9BA-45EA-B009-03C899CCDF81}"
